@@ -8,7 +8,7 @@ def catch_all(path):
 <html><head>
 <title>403 Forbidden</title>
 </head><body>
-<script>alert("POC by 0xd0m7")</script>
+<script>alert("POC by 0xd0m7 / 1nkvbz")</script>
 </body></html>
 """
   return content
